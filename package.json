@@ -1,0 +1,17 @@
+{
+  "name": "@tervis/tervisutilitybackendjs",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "TervisUtilityBackendJS.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tervis-Tumbler/TervisUtilityBackendJS"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "got": "^9.6.0",
+    "uuid": "^3.3.2",
+    "@tervis/tervisutilityjs": "^0.1.0"
+  }
+}
