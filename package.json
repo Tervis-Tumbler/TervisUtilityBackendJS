@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "fs-extra": "^7.0.1",
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "uuid": "^3.3.2",
     "@tervis/tervisutilityjs": "^0.1.12"
   }
